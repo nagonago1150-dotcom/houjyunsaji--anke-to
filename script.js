@@ -1,6 +1,6 @@
 let currentQuestion = 1;
 const answers = {};
-const redirectUrl = 'https://pthree.jp/lp?u=media8';
+const redirectUrl = 'https://finess.jp/lp?u=saji_quiz_v1';
 
 // タイピングアニメーション関数（強化版 - 各文字にエフェクト）
 function typeWriter(element, text, speed = 40) {
